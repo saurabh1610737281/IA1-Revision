@@ -28,11 +28,3 @@ int main()
     output(x,y,z);
     return 0;
 }
-
-
-
-
-
-
-
-
